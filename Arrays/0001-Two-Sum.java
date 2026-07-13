@@ -1,4 +1,3 @@
-
 class Solution {
     public int[] twoSum(int[] nums, int target) { 
 
@@ -9,8 +8,9 @@ class Solution {
                     return new int[]  {i,j};
 
                 }
-          
             }
+
+
         }
         
         return new int[] {};
